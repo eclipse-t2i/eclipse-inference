@@ -1,0 +1,16 @@
+accelerate==0.24.0
+datasets==2.14.6
+diffusers==0.20.2
+numpy==1.26.1
+packaging==23.2
+pandas_stubs==1.2.0.57
+Pillow==10.1.0
+torch==2.0.0
+torchvision==0.15.1
+tqdm==4.66.1
+transformers==4.34.1
+gradio
+jmespath
+opencv-python
+PyWavelet
+gradio==3.47.1
