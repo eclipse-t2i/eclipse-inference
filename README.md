@@ -44,6 +44,12 @@ conda create -p ./venv python=3.9
 pip install -r requirements.txt
 ```
 
+### Demo
+```bash
+conda activate ./venv
+gradio main.py
+```
+
 ## Run Inference
 
 This repository supports two pre-trained image decoders: [Karlo-v1-alpha](https://huggingface.co/kakaobrain/karlo-v1-alpha) and [Kandinsky-v2.2](https://huggingface.co/kandinsky-community/kandinsky-2-2-decoder).
