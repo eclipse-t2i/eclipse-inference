@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://eclipse-t2i.vercel.app/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Vercel&color=blue&logo=vercel"></a> &ensp;
-  <a href="https://eclipse-t2i.vercel.app/"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2312.xxxx&color=B31B1B&logo=arxiv"></a> &ensp;
-  <a href="https://eclipse-t2i.vercel.app/"><img src="https://img.shields.io/static/v1?label=Demo ECLIPSE&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://arxiv.org/abs/2312.04655"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2312.04655&color=B31B1B&logo=arxiv"></a> &ensp;
+  <a href="https://huggingface.co/spaces/ECLIPSE-Community/ECLIPSE-Kandinsky-v2.2"><img src="https://img.shields.io/static/v1?label=Demo ECLIPSE&message=HuggingFace&color=yellow"></a> &ensp;
 
 </div>
 
@@ -28,8 +28,8 @@ We show how to utilize the pre-trained ECLIPSE text-to-image prior in associatio
 
 ## TODOs:
 
-- [x] Release ECLIPSE priors for Kandinsky v2.2 and Karlo-v1-alpha.
-- [x] Release the demo.
+- [x] <s>Release ECLIPSE priors for Kandinsky v2.2 and Karlo-v1-alpha.</s>
+- [x] <s>Release the demo.</s>
 - [ ] Release ECLIPSE prior with Kandinsky v2.2 LCM decoder. (soon!)
 - [ ] Release ECLIPSE prior training code. (will be released in seperate repository)
 
