@@ -2,20 +2,23 @@
 
 <div align="center">
   <a href="https://eclipse-t2i.vercel.app/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Vercel&color=blue&logo=vercel"></a> &ensp;
-  <a href="https://eclipse-t2i.vercel.app/"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2312.xxxx&color=B31B1B&logo=arxiv"></a> &ensp;
-  <a href="https://eclipse-t2i.vercel.app/"><img src="https://img.shields.io/static/v1?label=Demo ECLIPSE&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://arxiv.org/abs/2312.04655/"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2312.04655&color=B31B1B&logo=arxiv"></a> &ensp;
+  <a href="https://huggingface.co/spaces/ECLIPSE-Community/ECLIPSE-Kandinsky-v2.2"><img src="https://img.shields.io/static/v1?label=Demo ECLIPSE&message=HuggingFace&color=yellow"></a> &ensp;
 
 </div>
 
 ---
 
 This repository contains the inference code for our paper, ECLIPSE.
-We show how to utilize the pre-trained ECLIPSE text-to-image prior in association with diffusion image decoders such as Karlo and Kandinsky.
+We show how to utilize the pre-trained ECLIPSE text-to-image prior associated with diffusion image decoders such as Karlo and Kandinsky.
 
-- ECLIPSE presents the tiny prior learning strategy which compresses the previous prior models from 1 billion parameters down to 33 million parameters.
-- Additionally, ECLIPSE prior is trained on mare 5 million image-text (alt-text) pairs.
+- ECLIPSE presents the tiny prior learning strategy that compresses the previous prior models from 1 billion parameters down to 33 million parameters.
+- Additionally, ECLIPSE prior is trained on a mere 5 million image-text (alt-text) pairs.
 
-**Please follow below steps to run the inference locally.**
+> **_News:_**  Checkout our latest work, [&lambda;-ECLIPSE](https://eclipse-t2i.github.io/Lambda-ECLIPSE/) extending the T2I priors for effecient zero-shot multi-subject driven text-to-image generations. 
+
+
+**Please follow the below steps to run the inference locally.**
 
 ---
 
