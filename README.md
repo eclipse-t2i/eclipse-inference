@@ -1,4 +1,4 @@
-## <div align="center"> <i>ECLIPSE</i>: Revisiting the Text-to-Image Prior for Effecient Image Generation </div>
+## <div align="center"> [CVPR 2024] <i>ECLIPSE</i>: Revisiting the Text-to-Image Prior for Effecient Image Generation </div>
 
 <div align="center">
   <a href="https://eclipse-t2i.vercel.app/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Vercel&color=blue&logo=vercel"></a> &ensp;
